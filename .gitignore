@@ -1,6 +1,5 @@
 # Berkshelf
 Berksfile.lock
-/cookbooks
 
 # Bundler
 .bundle
